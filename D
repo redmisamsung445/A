@@ -1,0 +1,2 @@
+class{
+private String b;}
